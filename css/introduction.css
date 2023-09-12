@@ -1,0 +1,27 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+
+h1 {
+    color: rgb(189, 122, 134);
+}
+
+img {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(216, 169, 178);
+    margin: 50px;
+}
+
+.container1 {
+    display: flex;
+    margin: 100px;
+    background-color: rgb(216, 169, 178);
+    color: white;
+}
+
+.intro {
+    margin: 50px;
+    margin-top: 65px;
+}
